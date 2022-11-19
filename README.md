@@ -47,9 +47,9 @@ http://localhost:3000
 
 ### Initialiser npm
 
-\*\*\*
+\*\*\*<br>
 `npm init`
-\*\*\*
+<br>\*\*\*
 ![img_1.png](.media/img_1.png)
 npm init est une commande qui va générer le fichier de configuration "package.json".
 Dans ce fichier, on va indiquer les librairies dont on a besoin mais aussi des informations liées au projet (autheurs, licences, etc ).
