@@ -173,3 +173,10 @@ C'est comme une surcouche à la bdd en faite, et
 Architecture MVC basique
 
 
+### Plugins à installer sur vscode 
+
+- Live sass compiler
+- Beautify css/sass/scss/less
+- Node.js Modules Intellisense
+- gitlens
+- EJS language support
